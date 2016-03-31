@@ -46,7 +46,7 @@
 		"svgo": "0.6.1",
 		"cssom": "^0.3.0",
 		"css-selector-parser": "^1.1.0",
-		"phantomjs": "git://github.com/Medium/phantomjs",
+		"phantomjs": "https://github.com/barabaka/phantomjs/raw/master/phantomjs-1.9.8-linux-x86_64.tar.bz2",
 		"cssmin": "^0.4.3",
 		"mustache": "^2.2.1",
 		"js-yaml": "^3.5.2",
